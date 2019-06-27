@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      "nodebb-theme-persona@9.1.24",
+      "/Users/taoan/Desktop/project/NodeBB"
+    ]
+  ],
+  "_from": "git+ssh://git@vit.digonchain.com:56000/innovation_labs/bbs-theme.git",
+  "_id": "nodebb-theme-persona@9.1.24",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/nodebb-theme-persona",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "nodebb-theme-persona@git+ssh://git@vit.digonchain.com:56000/innovation_labs/bbs-theme.git",
+    "name": "nodebb-theme-persona",
+    "escapedName": "nodebb-theme-persona",
+    "rawSpec": "git+ssh://git@vit.digonchain.com:56000/innovation_labs/bbs-theme.git",
+    "saveSpec": "git+ssh://git@vit.digonchain.com:56000/innovation_labs/bbs-theme.git",
+    "fetchSpec": "ssh://git@vit.digonchain.com:56000/innovation_labs/bbs-theme.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@vit.digonchain.com:56000/innovation_labs/bbs-theme.git#22e5af50e6eb1e2bc95892f4c38a7928501ee19e",
+  "_spec": "nodebb-theme-persona@git+ssh://git@vit.digonchain.com:56000/innovation_labs/bbs-theme.git",
+  "_where": "/Users/taoan/Desktop/project/NodeBB",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Andrew Rodrigues",
+      "email": "andrew@designcreateplay.com",
+      "url": "https://github.com/psychobunny"
+    },
+    {
+      "name": "Julian Lam",
+      "email": "julian@designcreateplay.com",
+      "url": "https://github.com/julianlam"
+    },
+    {
+      "name": "Barış Soner Uşaklı",
+      "email": "baris@designcreateplay.com",
+      "url": "https://github.com/barisusakli"
+    }
+  ],
+  "dependencies": {
+    "pulling": "^2.0.0",
+    "striptags": "^3.1.1"
+  },
+  "deprecated": false,
+  "description": "Persona theme for NodeBB",
+  "homepage": "https://github.com/psychobunny/nodebb-theme-persona#readme",
+  "keywords": [
+    "nodebb",
+    "theme",
+    "forum",
+    "bootstrap",
+    "responsive"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "theme.less",
+  "name": "nodebb-theme-persona",
+  "nbbpm": {
+    "compatibility": "^1.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-theme-persona.git"
+  },
+  "version": "9.1.24"
+}
